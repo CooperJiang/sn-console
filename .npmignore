@@ -1,0 +1,5 @@
+node_modules/
+/webpack.config.js
+/src
+/publish.sh
+/test.html

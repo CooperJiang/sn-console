@@ -1,0 +1,26 @@
+{
+  "name": "sn-console",
+  "version": "1.0.4",
+  "description": "Beautiful and effective console printing about JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack"
+  },
+  "keywords": [
+    "console",
+    "snine",
+    "log"
+  ],
+  "author": "Snine",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "xxxxxxx"
+  },
+  "devDependencies": {
+    "terser-webpack-plugin": "^4.2.0",
+    "webpack": "^4.44.0",
+    "webpack-cli": "^3.3.12"
+  }
+}
